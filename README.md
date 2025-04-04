@@ -15,7 +15,7 @@ Meu nome é Kaua Augusto. Tenho interesse na área de tecnologia e atualmente cu
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
 <img 
