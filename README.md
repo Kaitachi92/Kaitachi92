@@ -22,6 +22,6 @@ Meu nome é Kauã Augusto. Tenho interesse na área de tecnologia e atualmente c
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaitachi92&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaitachi92&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Kaitachi92&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Kaitachi92&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
 </p>
