@@ -22,6 +22,5 @@ Olá! Sou o Kauã Augusto. Sou **Tecnólogo em Análise e Desenvolvimento de Sis
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Kaitachi92&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Kaitachi92&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=Kaitachi92&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
