@@ -1,8 +1,8 @@
 # 🎶 Kauã Augusto
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Desenvolvedor de Software | Graduado em Análise e Desenvolvimento de Sistemas`**
 
-Meu nome é Kauã Augusto. Tenho interesse na área de tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas. Sou entusiasta de soluções inovadoras e busco constantemente aprimorar meus conhecimentos no setor.
+Olá! Sou o Kauã Augusto. Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas** e atuo criando soluções web robustas e eficientes. Busco constantemente aprimorar minhas habilidades, explorar novas tecnologias e transformar problemas em código limpo e funcional.
 
 ---
 
